@@ -1,1 +1,1 @@
-# Daviom Gears PHP Library
+# Daviom Gears API (v1) PHP Library
